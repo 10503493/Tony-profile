@@ -136,6 +136,7 @@ a:hover {
   background-color: #986665;
   padding: 80px 43px 70px;
   height: 100%;
+  text-align: center;
 }
 
 .tm-welcome-icon {
@@ -340,4 +341,11 @@ p {
   .tm-brand-container {
     padding: 25px;
   }
+}
+
+
+
+img {
+  width: 100%;
+  height: auto;
 }
